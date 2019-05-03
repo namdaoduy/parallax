@@ -144,12 +144,12 @@ a:link, a:visited, a:active {
   position: absolute;
   top: 0;
   left: 0;
-  transition: all 2s ease-in-out;
   opacity: 1;
   background-color: black;
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: all 2s ease-in-out;
 }
 .overlay > * {
   transition: all 0.5s ease-in-out;
